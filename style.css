@@ -89,6 +89,10 @@ p {
     flex-wrap: wrap;
 }
 
+.foto {
+
+}
+
 .foto-tutor { 
     width: 20%;
     margin: 0 auto;
@@ -97,10 +101,12 @@ p {
     width: 80%;
     border-radius: 50%;
 }
+
 .foto-tutor p {
     font-family: 'comic sans ms';
     font-weight: 800;
     font-size: 15px;
     text-align: center;
     color: #515E63;
+    margin-top: 20px;
 }
